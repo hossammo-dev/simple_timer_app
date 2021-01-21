@@ -1,6 +1,6 @@
 # simple_timer_app
 
-A new Flutter project.
+This is a very simple and basic timer application made useing flutter
 
 ## Getting Started
 
